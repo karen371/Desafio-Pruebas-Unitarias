@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Vista ContactView.vue Validación de match con el snapshot 1`] = `
+<div>
+  <h1>Contact</h1>
+  <p>Esta es la pagina Contact</p>
+</div>
+`;
